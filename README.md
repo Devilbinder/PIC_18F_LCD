@@ -11,4 +11,10 @@ This is a followup on the previous video #23 - LCD Interfacing. This improves th
 
 [![PIC Programming Tutorial #24 - LCD Code Improvements](https://img.youtube.com/vi/DytlyQxRJ7Q/0.jpg)](https://www.youtube.com/watch?v=DytlyQxRJ7Q "PIC Programming Tutorial #24 - LCD Code Improvements")
 
+# **PIC Programming Tutorial #25 - LCD Custom Characters**
+
+This is a followup on the previous video #24 - LCD Code Improvements. Creating Custom Characters.
+
+[![PIC Programming Tutorial #25 - LCD Custom Characters](https://img.youtube.com/vi/-DSMV8MjCdk/0.jpg)](https://www.youtube.com/watch?v=-DSMV8MjCdk "PIC Programming Tutorial #25 - LCD Custom Characters")
+
 
