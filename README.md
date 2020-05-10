@@ -17,4 +17,13 @@ This is a followup on the previous video #24 - LCD Code Improvements. Creating C
 
 [![PIC Programming Tutorial #25 - LCD Custom Characters](https://img.youtube.com/vi/-DSMV8MjCdk/0.jpg)](https://www.youtube.com/watch?v=-DSMV8MjCdk "PIC Programming Tutorial #25 - LCD Custom Characters")
 
+☕Coffee Funds☕.
 
+Shekels: 
+https://www.paypal.me/bindertronics9/5
+
+Bitcoin: 
+19nohZzWXxVuZ9tZvw8Pvhajt5khG5mspW
+
+Ethereum: 
+0x5fe29789CDaE8c73C9791bEe36c7ad5db8511D39
