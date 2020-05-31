@@ -22,6 +22,9 @@ This is a followup on the previous video #24 - LCD Code Improvements. Creating C
 Shekels: 
 https://www.paypal.me/bindertronics9/5
 
+Patreon:
+https://www.patreon.com/BinderTronics
+
 Bitcoin: 
 19nohZzWXxVuZ9tZvw8Pvhajt5khG5mspW
 
